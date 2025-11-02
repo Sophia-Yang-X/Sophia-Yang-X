@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Sophia Yang. I am currently learning natural language processing and working on large language model research.
+
+[Fine-Tuning with Llama 3](https://www.datacamp.com/completed/statement-of-accomplishment/course/2a4248bc58ab0972838eab156b3909de1f0cdec7)
+[Transformer Models with PyTorch](https://www.datacamp.com/completed/statement-of-accomplishment/course/3ee59a8ff5f32d788b8043ecbfbccb3d7af494d9)
+[Introduction to Natural Language Processing](https://www.datacamp.com/completed/statement-of-accomplishment/course/756761c03927b180f61d0579c453412126e1f491)
+[Introduction to Deep Learning with PyTorch](https://www.datacamp.com/completed/statement-of-accomplishment/course/5c869a3ca980270b65d6b693e9f8ecdc8744e577)
+[Natural Language Processing with spaCy](https://www.datacamp.com/completed/statement-of-accomplishment/course/5b97bc42ea73a0aba7cd2f6e101c98ec546afa4f)
+
+
 <!--
 **Sophia-Yang-X/Sophia-Yang-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
